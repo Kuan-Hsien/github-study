@@ -1,2 +1,2 @@
 # github-study
-This is a header
+This is a header file
